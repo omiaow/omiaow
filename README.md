@@ -17,7 +17,7 @@
 - **The National Health Care** [live](https://the-national-health-care.herokuapp.com/index.php) | [repo](https://github.com/omiaow/The-National-Health-Care)\
     Full stack web application on PHP: Online registration for vaccines against Covid-19.
 
-- **SET** [repo](https://github.com/omiaow/SET)\
+- **SET** [live](https://omiaow.github.io/SET/) | [repo](https://github.com/omiaow/SET)
     JavaScript project card game SET rules for the game.
 
   **Etc...**
