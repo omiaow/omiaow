@@ -8,8 +8,11 @@
 
 ## 🚀 Projects
 
+- **Thoughts Storage**
+    Form generating MERN full stack application.
+
 - **SmartJourney** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
-    flight search single page application on React.
+    Flight search single page application on React.
 
 - **Simple Neural Network** [repo](https://github.com/omiaow/simple-neural-network)\
     Simple perceptron using sigmoid function.
