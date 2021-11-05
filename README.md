@@ -11,7 +11,7 @@
 - **Thoughts Storage** [repo](https://github.com/omiaow/thoughts-storage)\
     Form generating MERN full stack application.
 
-- **(RIP)💐 SmartJourney** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
+- **(RIP) SmartJourney 💐💔** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
     😔 Skyscanner Flight Search is not longer available to RapidAPI service.
 
 - **Simple Neural Network** [repo](https://github.com/omiaow/simple-neural-network)\
