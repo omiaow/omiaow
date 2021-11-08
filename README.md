@@ -12,7 +12,7 @@
     Form generating MERN full stack application.
 
 - **SmartJourney (RIP)💔** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
-	Form generating MERN full stack application.
+	Flight search single page application on React.
 
 - **Simple Neural Network** [repo](https://github.com/omiaow/simple-neural-network)\
     Simple perceptron using sigmoid function.
