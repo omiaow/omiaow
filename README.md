@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 
-- **Thoughts Storage** [repo](https://github.com/omiaow/thoughts-storage)\
+- **Thoughts Storage** [live](https://thoughts-storage.netlify.app/) | [repo](https://github.com/omiaow/thoughts-storage)\
     Form generating MERN full stack application.
 
 - **SmartJourney (RIP)💔** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
