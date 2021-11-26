@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 
-- **Thoughts Storage** [live](https://thoughts-storage.netlify.app/) | [front-end-repo](https://github.com/omiaow/thoughts-storage-front-end) | [back-end-repo](https://github.com/omiaow/thoughts-storage-back-end)\
+- **Thoughts Storage** [live](https://thoughts-storage.netlify.app/) | [front-end-repo](https://github.com/omiaow/thoughts-storage-front-end) | [back-end-repo](https://github.com/omiaow/thoughts-storage-back-end) | [npm TSForm package](https://github.com/omiaow/react-thoughts-storage-form)\
     Form generating MERN full stack application.
 
 - **SmartJourney (RIP)💔** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
