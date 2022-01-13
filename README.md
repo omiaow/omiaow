@@ -8,10 +8,10 @@
 
 ## 🚀 Projects
 
-- **Thoughts Storage** [live](https://thoughts-storage.netlify.app/) | [front-end-repo](https://github.com/omiaow/thoughts-storage-front-end) | [back-end-repo](https://github.com/omiaow/thoughts-storage-back-end) | [npm-package](https://github.com/omiaow/react-thoughts-storage-form)\
+- **Survey Storage** [live](https://thoughts-storage.netlify.app/) | [repo](https://github.com/omiaow/thoughts-storage-front-end)\
     Form generating MERN full stack application.
 
-- **SmartJourney (RIP)💔** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
+- **SmartJourney** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
 	Flight search single page application on React.
 
 - **Simple Neural Network** [repo](https://github.com/omiaow/simple-neural-network)\
