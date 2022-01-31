@@ -88,7 +88,7 @@ Find me on:
   <a href="https://soundcloud.com/omurzak-keldibekov" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/soundcloud.svg" alt="omiaow" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_omiaow_" target="blank">
+  <a href="https://instagram.com/omcha.k" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_omiaow_" height="30" width="40" />
   </a>
   <a href="https://fb.com/omiaow" target="blank">
