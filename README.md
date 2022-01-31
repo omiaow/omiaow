@@ -79,9 +79,9 @@ Check [my Resume](https://github.com/omiaow/omiaow/blob/main/resume.pdf)\
 Email me: [omurzak.keldibek@gmail.com](mailto:omurzak.keldibek@gmail.com)\
 Find me on:
 <p align="left">
-  <a href="https://linkedin.com/in/omurzak-keldibekov/" target="blank">
+  <!--<a href="https://linkedin.com/in/omurzak-keldibekov/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omurzak-keldibekov/" height="30" width="40" />
-  </a>
+  </a>-->
   <a href="https://www.hackerrank.com/omiaow" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="omiaow" height="30" width="40" />
   </a>
