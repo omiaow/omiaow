@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  Computer Science student at Eötvös Loránd University
+  Achieved Computer Science BSc at Eötvös Loránd University
 </p>
 
 ## 🚀 Projects
 
 - **Survey Storage** [live](https://thoughts-storage.netlify.app/) | [repo](https://github.com/omiaow/thoughts-storage-front-end)\
-    Form generating MERN full stack application.
+    Form generating MongoDB, Express, React, Node (MERN) full stack application.
 
 - **SmartJourney** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
 	Flight search single page application on React.
@@ -23,7 +23,10 @@
 - **SET** [live](https://omiaow.github.io/SET/) | [repo](https://github.com/omiaow/SET)\
     JavaScript project card game SET rules for the game.
 
-  **Etc...**
+## 🏆 Certificates
+
+- [HackerRank JavaScript (Intermediate)](https://www.hackerrank.com/certificates/e3da7826ff06)\
+- [HackerRank JavaScript (Basic)](https://www.hackerrank.com/certificates/5eff8816b528)\
 
 ## 🛠️ Languages and Tools
 <p align="left">
@@ -66,12 +69,13 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <!--
   <a href="https://developer.android.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
   <a href="https://unity.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
+  </a>-->
 </p>
 
 ## 📝 About me
