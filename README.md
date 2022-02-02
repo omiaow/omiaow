@@ -23,10 +23,10 @@
 - **SET** [live](https://omiaow.github.io/SET/) | [repo](https://github.com/omiaow/SET)\
     JavaScript project card game SET rules for the game.
 
-## 🏆 Certificates
+##  Certificates
 
-- [HackerRank JavaScript (Intermediate)](https://www.hackerrank.com/certificates/e3da7826ff06)\
-- [HackerRank JavaScript (Basic)](https://www.hackerrank.com/certificates/5eff8816b528)\
+- [HackerRank JavaScript (Intermediate)](https://www.hackerrank.com/certificates/e3da7826ff06)
+- [HackerRank JavaScript (Basic)](https://www.hackerrank.com/certificates/5eff8816b528)
 
 ## 🛠️ Languages and Tools
 <p align="left">
