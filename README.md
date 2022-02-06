@@ -25,6 +25,7 @@
 
 ## 🏆 Certificates
 
+- [HackerRank React Certificate](https://www.hackerrank.com/certificates/b2554543e8c8)
 - [HackerRank JavaScript (Intermediate)](https://www.hackerrank.com/certificates/e3da7826ff06)
 - [HackerRank JavaScript (Basic)](https://www.hackerrank.com/certificates/5eff8816b528)
 
