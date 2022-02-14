@@ -25,9 +25,10 @@
 
 ## 🏆 Certificates
 
-- [React Certificate HackerRank](https://www.hackerrank.com/certificates/b2554543e8c8)
-- [JavaScript Certificate (Intermediate) HackerRank](https://www.hackerrank.com/certificates/e3da7826ff06)
-- [JavaScript Certificate (Basic) HackerRank](https://www.hackerrank.com/certificates/5eff8816b528)
+- [Google UX Design Certificate (Foundations of User Experience Design)](https://www.coursera.org/account/accomplishments/verify/KQP78CT6NLPH)
+- [React Skill Certificate HackerRank](https://www.hackerrank.com/certificates/b2554543e8c8)
+- [JavaScript Skill Certificate (Intermediate) HackerRank](https://www.hackerrank.com/certificates/e3da7826ff06)
+- [JavaScript Skill Certificate (Basic) HackerRank](https://www.hackerrank.com/certificates/5eff8816b528)
 
 ## 🛠️ Languages and Tools
 <p align="left">
