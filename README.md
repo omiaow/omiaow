@@ -25,6 +25,7 @@
 
 ## 🏆 Certificates
 
+- [IBM Badge](https://www.credly.com/badges/869c4711-3a1e-4a49-ac7c-9992a7715c55/public_url) | [IBM Certificate for Developing Cloud Apps with Node.js and React](https://www.coursera.org/account/accomplishments/verify/HGC3SNV9VA2C)
 - [Google UX Design Certificate (Foundations of User Experience Design)](https://www.coursera.org/account/accomplishments/verify/KQP78CT6NLPH)
 - [React Skill Certificate HackerRank](https://www.hackerrank.com/certificates/b2554543e8c8)
 - [JavaScript Skill Certificate (Intermediate) HackerRank](https://www.hackerrank.com/certificates/e3da7826ff06)
