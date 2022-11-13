@@ -8,6 +8,9 @@
 
 ## 🚀 Projects
 
+- **API Tester** [live](https://omiaow.github.io/APITester/) | [repo](https://github.com/omiaow/APITester)\
+    Frontend application to test your REST API.
+
 - **Survey Storage** [live](https://thoughts-storage.netlify.app/) | [repo](https://github.com/omiaow/thoughts-storage-front-end)\
     Form generating MongoDB, Express, React, Node (MERN) full stack application.
 
