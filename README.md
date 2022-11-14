@@ -8,6 +8,9 @@
 
 ## 🚀 Projects
 
+- **Encrypt Me** [live](https://omiaow.github.io/encryptme/) | [repo](https://github.com/omiaow/encryptme)\
+    Frontend application to encrypt text or decrypt the encrypted code.
+
 - **API Tester** [live](https://omiaow.github.io/APITester/) | [repo](https://github.com/omiaow/APITester)\
     Frontend application to test your REST API.
 
