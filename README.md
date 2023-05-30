@@ -14,11 +14,11 @@
 - **API Tester** [live](https://omiaow.github.io/APITester/) | [repo](https://github.com/omiaow/APITester)\
     Frontend application to test your REST API.
 
+- **SmartJourney** [live](https://smart-journey.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
+	Flight search single page application on React.
+
 - **Survey Storage** [live](https://thoughts-storage.netlify.app/) | [repo](https://github.com/omiaow/thoughts-storage-front-end)\
     Form generating MongoDB, Express, React, Node (MERN) full stack application.
-
-- **SmartJourney** [live](https://smartjourney.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
-	Flight search single page application on React.
 
 - **Simple Neural Network** [repo](https://github.com/omiaow/simple-neural-network)\
     Simple perceptron using sigmoid function.
