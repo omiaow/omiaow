@@ -8,14 +8,14 @@
 
 ## 🚀 Projects
 
+- **SmartJourney** [live](https://smart-journey.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
+	Flight search single page application on React.
+
 - **Encrypt Me** [live](https://omiaow.github.io/encryptme/) | [repo](https://github.com/omiaow/encryptme)\
     Frontend application to encrypt text or decrypt the encrypted code.
 
 - **API Tester** [live](https://omiaow.github.io/APITester/) | [repo](https://github.com/omiaow/APITester)\
     Frontend application to test your REST API.
-
-- **SmartJourney** [live](https://smart-journey.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
-	Flight search single page application on React.
 
 - **Survey Storage** [live](https://thoughts-storage.netlify.app/) | [repo](https://github.com/omiaow/thoughts-storage-front-end)\
     Form generating MongoDB, Express, React, Node (MERN) full stack application.
