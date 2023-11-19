@@ -11,6 +11,9 @@
 - **SmartJourney** [live](https://smart-journey.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
 	Flight search single page application on React.
 
+- **Jsonbases** [live](https://www.npmjs.com/package/jsonbases) | [repo](https://github.com/omiaow/jsonbases)\
+	Node.js package, providing functions to create, read, update, and delete records following a specified data format.
+
 - **Encrypt Me** [live](https://omiaow.github.io/encryptme/) | [repo](https://github.com/omiaow/encryptme)\
     Frontend application to encrypt text or decrypt the encrypted code.
 
