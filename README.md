@@ -8,7 +8,7 @@
 
 ## 🚀 Projects
 
-- **SmartJourney** [live](https://smart-journey.netlify.app/) | [repo](https://github.com/omiaow/smart-journey-public)\
+- **SmartJourney** [live](https://smart-journey.netlify.app/) | [repo](https://github.com/omiaow/SmartJourney-frontend)\
 	Flight search single page application on React.
 
 - **Jsonbases** [live](https://www.npmjs.com/package/jsonbases) | [repo](https://github.com/omiaow/jsonbases)\
