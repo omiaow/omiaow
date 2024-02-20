@@ -8,29 +8,26 @@
 
 ## 🚀 Projects
 
+- **Chat App** [repo](https://github.com/omiaow/ChatApp)\
+	Web messenger on **React (TypeScript), Node.js, Express.js,** with **Socket.io**, developed in **Docker** with **Nginx.**
+
 - **SmartJourney** [live](https://smart-journey.netlify.app/) | [repo](https://github.com/omiaow/SmartJourney-frontend)\
-	Flight search single page application on React.
+	Flight search **single page application** on **React** and **Node.js**.
 
 - **Jsonbases** [live](https://www.npmjs.com/package/jsonbases) | [repo](https://github.com/omiaow/jsonbases)\
-	Node.js package, providing functions to create, read, update, and delete records following a specified data format.
-
-- **Encrypt Me** [live](https://omiaow.github.io/encryptme/) | [repo](https://github.com/omiaow/encryptme)\
-    Frontend application to encrypt text or decrypt the encrypted code.
-
-- **API Tester** [live](https://omiaow.github.io/APITester/) | [repo](https://github.com/omiaow/APITester)\
-    Frontend application to test your REST API.
+	Created a **Node.js package**, to providing functions to "create", "read", "update", and "delete" records following a specified data format.
 
 - **Survey Storage** [live](https://thoughts-storage.netlify.app/) | [repo](https://github.com/omiaow/thoughts-storage-front-end)\
-    Form generating MongoDB, Express, React, Node (MERN) full stack application.
+  	**MongoDB, Express, React, Node (MERN) full stack application**.
 
 - **Simple Neural Network** [repo](https://github.com/omiaow/simple-neural-network)\
-    Simple perceptron using sigmoid function.
+    	Simple perceptron using **sigmoid function**.
 
 - **The National Health Care** [live](https://the-national-health-care.herokuapp.com/index.php) | [repo](https://github.com/omiaow/The-National-Health-Care)\
-    Full stack web application on PHP: Online registration for vaccines against Covid-19.
+    	Full stack web application on **PHP** and **JavaScript**: Online registration for vaccines against Covid-19.
 
 - **SET** [live](https://omiaow.github.io/SET/) | [repo](https://github.com/omiaow/SET)\
-    JavaScript project card game SET rules for the game.
+    	**JavaScript** based card game SET rules for the game.
 
 ## 🏆 Certificates
 
