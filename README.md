@@ -15,7 +15,7 @@
 	Flight search **single page application** on **React** and **Node.js**.
 
 - **Jsonbases** [live](https://www.npmjs.com/package/jsonbases) | [repo](https://github.com/omiaow/jsonbases)\
-	Created a **Node.js package**, to providing functions to "create", "read", "update", and "delete" records following a specified data format.
+	Created a **Node.js package**, to create a local json based database.
 
 - **Survey Storage** [live](https://thoughts-storage.netlify.app/) | [repo](https://github.com/omiaow/thoughts-storage-front-end)\
   	**MongoDB, Express, React, Node (MERN) full stack application**.
