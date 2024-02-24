@@ -9,7 +9,7 @@
 ## 🚀 Projects
 
 - **Chat App** [repo](https://github.com/omiaow/ChatApp)\
-	Web messenger on **React (TypeScript), Node.js, Express.js,** with **Socket.io**, developed in **Docker** with **Nginx.**
+	Web messenger on **React (TypeScript), Node.js, Express.js,** with **Socket.io**, using **Docker** and **Nginx.**
 
 - **SmartJourney** [live](https://smart-journey.netlify.app/) | [repo](https://github.com/omiaow/SmartJourney-frontend)\
 	Flight search **single page application** on **React** and **Node.js**.
